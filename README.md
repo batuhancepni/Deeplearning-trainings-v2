@@ -1,1 +1,1 @@
-# IMDB application with Keras.
+# Applications with Keras.
